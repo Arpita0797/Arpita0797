@@ -54,6 +54,10 @@
 
 ###
 
+<h3 align="left">🌐 Socials:</h3>
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/ arpitamishra01 Vanity URL name" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -74,10 +78,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpita0797/Arpita0797/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpita0797/Arpita0797/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arpita0797/Arpita0797/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Arpita0797/Arpita0797/output/snake.svg" alt="Snake animation" />
 
 ###
